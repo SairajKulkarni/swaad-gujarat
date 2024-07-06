@@ -1,0 +1,15 @@
+Dark Orange: ff5d00
+Yellow: ffaa01
+Blue: 002363
+Red: 9c0001
+Yellow2: ff8e01
+Green: 105529
+Purple: 2a0032
+
+Saffron (Kesariya): #FF9933
+Turmeric Yellow: #FFD700
+Royal Blue: #4169E1
+Crimson Red: #DC143C
+Marigold: #FFB732
+Green: #002E00
+Purple: #301934
